@@ -1,5 +1,13 @@
 # @saphe/react-forms
 
+## 0.9.5
+
+### Patch Changes
+
+- 4f1cff7: Remove tslib dependency
+- Updated dependencies [4f1cff7]
+  - @saphe/react-use@0.2.1
+
 ## 0.9.4
 
 ### Patch Changes
